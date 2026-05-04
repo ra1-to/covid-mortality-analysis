@@ -83,4 +83,4 @@ python visualisation.py
 ## Author
 
 **Anwar Nafidi** — Information Systems & Big Data, ENSA Berrechid  
-[GitHub](https://github.com/ra1-to) · [LinkedIn](https://linkedin.com/in/anwar-nafidi-623780378)
+[LinkedIn](https://linkedin.com/in/anwar-nafidi-623780378)
